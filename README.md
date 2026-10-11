@@ -57,7 +57,6 @@
 <img width="1199" height="211" alt="d9168b09a3aa8f283ca028e89504ed48" src="https://github.com/user-attachments/assets/752841a6-da45-4c7c-b7e9-471a007b85ca" />
 
 
-
 <p align="center">
 ◟ 𝓽𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝔀𝓪𝓽𝓬𝓱𝓲𝓷𝓰, 𝓼𝓮𝓮 𝔂𝓸𝓾 .ᐟ 
 
