@@ -7,5 +7,6 @@
 </p>
 
 
-![Просмотры](https://komarev.com)
+![Просмотры](https://glitch.me)
+
 
