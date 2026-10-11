@@ -6,6 +6,6 @@
   <img src="https://github.com/user-attachments/assets/6eb720bf-90c8-47c5-90fd-29590ef668c3" width="500" alt="Ivan Alien Stage">
 </p>
 
-### 👁️ Просмотры профиля
+
 ![Просмотры](https://komarev.com)
 
