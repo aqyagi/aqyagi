@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://tenor.com/ru/view/ivan-alien-stage-alien-stage-vivinos-ivan-alnst-alnst-gif-4384989844755167160" width="100"/>
-<div class="tenor-gif-embed" data-postid="4384989844755167160" data-share-method="host" data-aspect-ratio="1.31746" data-width="100%"><a href="https://tenor.com/view/ivan-alien-stage-alien-stage-vivinos-ivan-alnst-alnst-gif-4384989844755167160">Ivan Alien Stage Vivinos GIF</a>from <a 
 
