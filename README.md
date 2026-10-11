@@ -24,6 +24,8 @@
 
 ꒰ 𝗁𝗈𝖻𝖻𝗒 ፡ 𝖽𝗋𝖺𝗐𝗂𝗇𝗀 ꒱
 
+꒰ 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾 ፡ 𝗋𝗎𝗌𝗌𝗂𝖺𝗇 & 𝗌𝗈𝗆𝖾 𝖾𝗇𝗀𝗅𝗂𝗌𝗁 ꒱
+
 <img src="https://github.com/user-attachments/assets/c13750ba-2fa2-4266-a5ac-3a2904064c08" width="400" align="left" />
 
 
