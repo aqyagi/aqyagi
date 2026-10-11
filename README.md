@@ -7,6 +7,7 @@
 </p>
 
 
-![Просмотры](https://glitch.me)
+![Просмотры](https://vercel.app)
+
 
 
