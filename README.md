@@ -2,3 +2,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/02c061b2-e431-4684-b068-294411feb07f" width="500" alt="Ivan Alien Stage">
 </p>
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/02c061b2-e431-4684-b068-294411feb07f" width="500" alt="Ivan Alien Stage">
+</p>
